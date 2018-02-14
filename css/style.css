@@ -3,10 +3,13 @@ background-color: #343a40;
 }
 .search {
   
-  align: 100px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
   }
 
 h1 {
   color: white;
-
+  margin-top: 200px;
 }
