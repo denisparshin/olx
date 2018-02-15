@@ -1,15 +1,40 @@
 body {
 background-color: #343a40;
 }
+
+.btnsearch {
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
+
+
 .search {
-  
+  margin-top: 10%;
+}
+
+.open{
+  margin-bottom: 10px;
+}
+
+.onecard{
+margin-bottom: 5px;
+
+}
+.newrow {
   margin-bottom: 20px;
-  margin-top: 10px;
-  margin-left: 100px;
-  margin-right: 100px;
-  }
+}
 
 h1 {
   color: white;
-  margin-top: 200px;
+ 
+ }
+
+h2 {
+  color: white;
+  margin-bottom: 50px;
+}
+
+footer {
+  margin-top: 20%;
+  color: white;
 }
