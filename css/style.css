@@ -21,7 +21,7 @@ margin-bottom: 5px;
 
 }
 .newrow {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 h1 {
@@ -31,10 +31,10 @@ h1 {
 
 h2 {
   color: white;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 footer {
-  margin-top: 20%;
+  margin-top: 5%;
   color: white;
 }
