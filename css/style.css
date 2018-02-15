@@ -6,7 +6,13 @@ background-color: #343a40;
   margin-top: 20px;
   margin-bottom: 100px;
 }
+.row-eq-height > [class^=col] {
+  display: flex;
+}
 
+.row-eq-height > [class^=col] {
+  flex-grow: 1;
+}
 
 .search {
   margin-top: 10%;
