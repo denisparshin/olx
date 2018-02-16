@@ -39,6 +39,10 @@ margin-bottom: 5px;
 }
 .other{
   margin-top: 10px;
+
+}
+.bform {
+  margin-top: 10px;
 }
 h1 {
   color: white;
@@ -53,9 +57,7 @@ h3{
   color: white;
   margin-bottom: 20px;
 }
-button {
-  margin-top: 10px;
-}
+
 label {
   color: white;
 }
