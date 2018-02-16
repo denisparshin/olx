@@ -29,7 +29,17 @@ margin-bottom: 5px;
 .newrow {
   margin-bottom: 10px;
 }
-
+.price {
+  font-size: 36px;
+  color: white;
+}
+.description {
+  color: white;
+  margin-bottom: 20px;
+}
+.other{
+  margin-top: 10px;
+}
 h1 {
   color: white;
  
@@ -39,7 +49,14 @@ h2 {
   color: white;
   margin-bottom: 20px;
 }
+h3{
+  color: white;
+  margin-bottom: 20px;
+}
 
+label {
+  color: white;
+}
 footer {
   margin-top: 5%;
   color: white;
