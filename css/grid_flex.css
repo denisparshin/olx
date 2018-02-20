@@ -1,0 +1,48 @@
+body {
+background-color: #343a40;
+color:white;
+}
+
+h1 {text-align: center}
+p {text-align: center}
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h3 {
+  text-align: center
+}
+.menu-item {
+  display: inline;
+padding: 5px 15px 5px 15px;
+}
+.breadcrumbs-item {
+  display: inline;
+}
+.container {
+  
+  display: grid;
+  grid-template-columns: 1fr ;
+  grid-template-rows: 1fr 1fr 1fr 4fr;
+  grid-row-gap: 10px;
+  }
+
+.content {
+   display: flex;
+
+}
+
+ }
+
+.logo {
+  font-size: 1.25rem;
+}
+
+
+.description {
+  display: flex;
+  flex-direction: column;
+  
+}
+
